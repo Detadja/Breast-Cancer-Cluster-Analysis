@@ -3,7 +3,10 @@ A ML project to detect breast cancer using cluster analysis in Python. Including
 * A
 
 Libraries used:
-* A
+* pandas
+* numpy
+* matplotlib
+* sklearn
 
 Resources:
 * https://www.shiksha.com/online-courses/articles/top-machine-learning-projects-for-beginners/
